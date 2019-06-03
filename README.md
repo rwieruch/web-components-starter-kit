@@ -10,4 +10,4 @@ Starter Kit for Web Components with Webpack as application bundler.
 * cd web-components-starter-kit
 * npm install
 * npm start
-* visit `http://localhost:3000`
+* visit `http://localhost:8080`
