@@ -6,7 +6,7 @@ Starter Kit for Web Components with Webpack as application bundler.
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/web-components-starter-kit.git`
+* `git clone https://github.com/rwieruch/web-components-starter-kit.git`
 * cd web-components-starter-kit
 * npm install
 * npm start
